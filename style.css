@@ -12,3 +12,23 @@ h2{
 .red-color{
     color:rgb(243, 59, 13);
 }
+section{
+    display: flex;
+}
+.half-width{
+    width: 100%;
+    padding-left: 10px;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(brown,red);
+    color:white;
+    font-weight: 700;
+    padding: 5px 15px;
+    border-radius: 5px;
+
+}
+
