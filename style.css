@@ -5,15 +5,20 @@ body{
 }
 h1{
     font-size: 50px;
+    
+    
 }
 h2{
     font-size: 40px;
 }
+
+
 .red-color{
     color:rgb(243, 59, 13);
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 100%;
@@ -21,6 +26,9 @@ section{
 }
 .half-width img{
     width: 100%;
+    
+    
+    
 }
 .link-button{
     text-decoration: none;
@@ -31,4 +39,13 @@ section{
     border-radius: 5px;
 
 }
+
+
+
+.about-me{
+    background-image: url(shapes/Frame\ 58.jpg);
+    
+    
+    
+    
 
