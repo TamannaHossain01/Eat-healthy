@@ -13,6 +13,7 @@ h2{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -29,4 +30,10 @@ section{
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+.about-me{
+    background-image: url(shapes/7.png);
+    background-repeat: no-repeat;
+    padding-top: 50px;
+    padding-left: 150px;
 }
