@@ -14,3 +14,19 @@ h2{
 section{
     display: flex;
 }
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 85%;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red,brown);
+    padding: 10px 10px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
