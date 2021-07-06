@@ -51,8 +51,6 @@ h2{
     box-shadow: 10px 10px 40px gray ;
     padding-bottom: 10px;
     border-radius: 30px;
-    
-   
     border: 15px solid white;
     text-align: justify;
 }
@@ -60,14 +58,9 @@ h2{
     width: 100%;
     padding-right: 10px;
     padding-left: 10px;
-     
-    
-    
-    
+      
 
 }
-
-
 .social-media-box{
     width: 70%;
     margin-left: 9%;
