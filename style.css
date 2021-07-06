@@ -37,7 +37,7 @@ h2{
     background-repeat: no-repeat;
     padding-top: 50px;
     padding-left: 150px;
-    
+}
 .h-p{
     text-align: center;
     padding: 15px;
@@ -89,6 +89,6 @@ h2{
     background-color:black;
     padding: 10px;
     color: white;
-    border:7px solid crimson;
+    border:7px solid red;
 
 }
