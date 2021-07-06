@@ -30,6 +30,7 @@ h2{
     color: white;
     font-weight: 700;
     border-radius: 5px;
+
 }
 .about-me{
     background-image: url(shapes/7.png);
@@ -45,15 +46,28 @@ h2{
     width: 50%;
     margin-left: 3%;
     margin-right: 4%;
-    padding-left:  40px;
-    padding-right:40px ;
+    padding-left:  30px;
+    padding-right: 30px ;
     box-shadow: 10px 10px 40px gray ;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     border-radius: 30px;
+    
    
     border: 15px solid white;
     text-align: justify;
 }
+.food-photo{
+    width: 100%;
+    padding-right: 10px;
+    padding-left: 10px;
+     
+    
+    
+    
+
+}
+
+
 .social-media-box{
     width: 70%;
     margin-left: 9%;
@@ -75,4 +89,6 @@ h2{
     background-color:black;
     padding: 10px;
     color: white;
+    border:7px solid crimson;
+
 }
