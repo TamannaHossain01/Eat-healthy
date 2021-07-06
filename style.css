@@ -11,7 +11,7 @@ h2{
 .red-color{
     color: red;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -36,4 +36,26 @@ section{
     background-repeat: no-repeat;
     padding-top: 50px;
     padding-left: 150px;
+}
+.h-p{
+    text-align: center;
+    padding: 15px;
+}
+.food-area{
+    width: 50%;
+    margin-left: 3%;
+    margin-right: 4%;
+    padding-left:  40px;
+    padding-right:40px ;
+    box-shadow: 10px 10px 40px gray ;
+    padding-bottom: ;
+    border-radius: 30px;
+   
+    border: 15px solid white;
+}
+.last-ft{
+    text-align: center;
+    background-color:black;
+    padding: 10px;
+    color: white;
 }
