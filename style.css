@@ -54,6 +54,21 @@ h2{
     border: 15px solid white;
     text-align: justify;
 }
+.social-media-box{
+    width: 70%;
+    margin-left: 9%;
+    padding-left: 11%;
+    
+    border-radius: 20px;
+    box-shadow: 9px 9px 30px gray;
+}
+.social-media-info{
+    margin: 40px;
+    padding: auto;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
 
 .last-ft{
     text-align: center;
